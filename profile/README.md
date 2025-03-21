@@ -10,7 +10,7 @@ We are working on adding multiple domains as gateways incase one gets blocked.
 
 ---
 
-![Games](https://img.shields.io/badge/Games%20Available-8-orange)
+[![Games](https://img.shields.io/badge/Games%20Available-8-orange)](https://totally-math.netlify.app/)
 [![Website](https://img.shields.io/badge/TotallyMath_Network-Online-green)](https://totally-math.netlify.app)
 
 ## 🎮 **Available Games**
